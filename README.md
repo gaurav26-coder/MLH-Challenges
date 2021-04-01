@@ -9,3 +9,7 @@ Task- https://github.com/gaurav26-coder/MLH-Challenges/blob/main/Day2/ipl_eda.ip
 Task1- https://colab.research.google.com/drive/1GRn3339DRC6M-RA_VBnpw4X4n1xpKK1d?usp=sharing (Tic Tac Toe Game- CLI Game)
 
 Task2- https://colab.research.google.com/drive/1fLOIhJdSues4HQGw5eZUaz0PYqSPkWBf?usp=sharing (List sorting)
+### Day4
+Task1- https://colab.research.google.com/drive/1kVGVjpkNnUWpg3depw829vSB5cZjvEsz?usp=sharing (AI implementation)
+
+Task2- https://drive.google.com/file/d/1HSKYzvVgKpGbtraK_sMmxt0QKlFuP5TE/view (Kanban Board)
